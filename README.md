@@ -1,11 +1,13 @@
 # DevOps/Salesforce Administrator 
+
 **Technical Skills DevOps: Terraform · Sonarqube · Nexus · Docker · Maven · Microsoft Azure · Git · Jenkins · Linux · Kubernetes · Amazon Web Services (AWS)**
+
 **Technical Skills Salesforce Admin: Data Loading · Bench Work · Jira · Data Analysis · Customer Relationship Management (CRM) · Collaboration · Documentation**
 
 ### Education 
-- M.S., OBGYN | Bogomolets National Medical University (_June 2015_)
+- M.S., OBGYN | Bogomolets National Medical University(_June 2015_)
 - B.S., MD | Bogomolets National Medical University(_June_ 2012_)
-- Certification., DevOps & AWS | DevOps Shack (_Oct_2023_)
+- Certification., DevOps & AWS | DevOps Shack(_Oct_2023_)
 - Certification., Salesforce Certified Administrator (SCA) | Credential ID 2557948
 
 ### Work Experince 
